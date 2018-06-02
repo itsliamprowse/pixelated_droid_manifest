@@ -1,0 +1,1 @@
+# pixelated_droid_manifest
