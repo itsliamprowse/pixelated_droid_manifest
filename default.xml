@@ -11,7 +11,7 @@
 		   
 		   
 	<!--my custom code -->
-	  <project remote="github" path="packages/apps/Settings" name="platform_packages_apps_settings" revision="name_change" />
+	  <project remote="github" path="packages/apps/Settings" name="platform_packages_apps_settings" revision="refs/tags/android-8.1.0_r25" />
 	  
 	  
 	  <!-- AOSP code -->
